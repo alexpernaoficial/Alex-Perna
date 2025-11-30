@@ -1,0 +1,8 @@
+{
+  "name": "Aria - Home Office Companion",
+  "description": "Uma assistente de IA multimodal para Marketing, Programação e Inglês. Sua parceira de trabalho diário.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
